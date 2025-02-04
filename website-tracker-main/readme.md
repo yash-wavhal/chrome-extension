@@ -64,22 +64,17 @@ This Chrome extension leverages a stack of technologies, with a primary focus on
 
 - **Chrome Storage (chrome.storage.local)**: Incorporated to manage local storage, enabling the extension to persistently store and retrieve data.
 
-- **Register Page**: ![Screenshot (19)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20182422.png)
+- **Analytics Page**: ![Screenshot (19)](https://github.com/yash-wavhal/chrome-extension/blob/main/website-tracker-main/assets/img/Screenshot%202025-01-24%20190302.png)
 
 
-- **Login Page**: ![Screenshot (21)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20182459.png)
+- **Block Website**: ![Screenshot (21)](https://github.com/yash-wavhal/chrome-extension/blob/main/website-tracker-main/assets/img/Screenshot%202025-01-24%20190340.png)
 
 
-- **HomePage**: ![Screenshot (22)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20180639.png)
+- **Ignore Website**: ![Screenshot (22)](https://github.com/yash-wavhal/chrome-extension/blob/main/website-tracker-main/assets/img/Screenshot%202025-01-24%20190436.png)
 
 
-- **First User Editing**: ![Screenshot (26)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20180950.png)
+- **TTime Tracker**: ![Screenshot (26)](https://github.com/yash-wavhal/chrome-extension/blob/main/website-tracker-main/assets/img/Screenshot%202025-01-24%20190643.png)
 
+- **Set Time Limit**: ![Screenshot (33)](https://github.com/yash-wavhal/chrome-extension/blob/main/website-tracker-main/assets/img/Screenshot%202025-01-24%20191120.png)
 
-- **Second User Editing**: ![Screenshot (28)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20181024.png)
-
-
-- **Bold-Italic-Underline**: ![Screenshot (33)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20181054.png)
-
-
-- **Document Save Page**: ![Screenshot (35)](https://github.com/yash-wavhal/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR/blob/main/frontend-app/public/Screenshot%202025-01-24%20182252.png)
+- ![Screenshot (28)](https://github.com/yash-wavhal/chrome-extension/blob/main/website-tracker-main/assets/img/Screenshot%202025-01-24%20191044.png)
